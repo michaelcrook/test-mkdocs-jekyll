@@ -3,7 +3,7 @@ title: About
 permalink: /about/
 ---
 
-# About
+# About test
 
 This is a starter template for a mkdocs jekyll theme, based on these two
 previous beauties:
